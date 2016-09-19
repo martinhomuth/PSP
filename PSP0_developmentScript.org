@@ -26,4 +26,8 @@
 |              |                | - Record defects in Defect Recording Log                                      |
 |              |                | - Record time in Time Recording Log                                           |
 |--------------+----------------+-------------------------------------------------------------------------------|
+|              | Exit Criteria  | - A thorougly tested program                                                  |
+|              |                | - Completed Defect Recording Log                                              |
+|              |                | - Completed Time Recording Log                                                |
+|--------------+----------------+-------------------------------------------------------------------------------|
 
