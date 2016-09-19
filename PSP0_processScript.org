@@ -1,0 +1,31 @@
+#+TITLE: PSP0 Process Script
+#+AUTHOR: Martin Homuth
+
+|--------------+-----------------+-----------------------------------------------------------------|
+| Phase Number | Purpose         | Guide                                                           |
+|--------------+-----------------+-----------------------------------------------------------------|
+|              | Inputs Required | - Problem description                                           |
+|              |                 | - PSP0 Project Plan Summary Form                                |
+|              |                 | - Time and Defect Recording Logs                                |
+|              |                 | - Defect Type Standard                                          |
+|              |                 | - Stop Watch (optional)                                         |
+|--------------+-----------------+-----------------------------------------------------------------|
+|            1 | Planning        | - Produce or obtain a requirements statement                    |
+|              |                 | - Estimate the required development time                        |
+|              |                 | - Enter the plan data in the Project Plan Summary form          |
+|              |                 | - Complete the Time Recording Log                               |
+|--------------+-----------------+-----------------------------------------------------------------|
+|            2 | Development     | - Design the program                                            |
+|              |                 | - Implement the design                                          |
+|              |                 | - Compile the program and fix and log all defects found         |
+|              |                 | - Test the program an dfix and log all defects found            |
+|              |                 | - Complete the Time Recording Log                               |
+|--------------+-----------------+-----------------------------------------------------------------|
+|            3 | Postmortem      | Complete the Project Plan Summary form with actual time,        |
+|              |                 | deffects and size data                                          |
+|--------------+-----------------+-----------------------------------------------------------------|
+|              | Exit Criteria   | - A thoroughly tested program                                   |
+|              |                 | - Completed Project Plan Summary with estimated and actual data |
+|              |                 | - Completed Defect and Time Recording Logs                      |
+|--------------+-----------------+-----------------------------------------------------------------|
+
