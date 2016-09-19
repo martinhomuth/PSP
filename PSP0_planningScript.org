@@ -1,0 +1,23 @@
+#+TITLE: PSP0 Planning Script
+#+AUTHOR: Martin Homuth
+
+|--------------+----------------------+-------------------------------------------------------------------------|
+| Phase Number | Purpose              | Guide the PSP planning process                                          |
+|--------------+----------------------+-------------------------------------------------------------------------|
+|              | Entry Criteria       | - problem description                                                   |
+|              |                      | - Project Plan Summary form                                             |
+|              |                      | - Time Recording Log                                                    |
+|--------------+----------------------+-------------------------------------------------------------------------|
+|            1 | Program Requirements | - Produce or obtain a requirements statement                            |
+|              |                      | - Ensure the requirements statement is clear and unambiguous            |
+|              |                      | - Resolve any questions                                                 |
+|--------------+----------------------+-------------------------------------------------------------------------|
+|            2 | Estimate Resources   | - Make your best estimate of the time required to develop this program  |
+|--------------+----------------------+-------------------------------------------------------------------------|
+|              | Exit Criteria        | - A documented requirements statement                                   |
+|              |                      | - A completed Project Plan Summary with estimated development time data |
+|              |                      | - Completed Time Recording Log                                          |
+|--------------+----------------------+-------------------------------------------------------------------------|
+
+
+
