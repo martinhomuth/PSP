@@ -1,0 +1,29 @@
+#+TITLE: PSP0 Development Script
+#+AUTHOR: Martin Homuth
+
+|--------------+----------------+-------------------------------------------------------------------------------|
+| Phase Number | Purpose        | Guide the development of small programs                                       |
+|--------------+----------------+-------------------------------------------------------------------------------|
+|              | Entry Criteria | - Requirements statement                                                      |
+|              |                | - Project Plan Summary wiht planned development time                          |
+|              |                | - Time and Defect Recording Logs                                              |
+|              |                | - Defect Type Standard                                                        |
+|--------------+----------------+-------------------------------------------------------------------------------|
+|            1 | Design         | - Review the requirements and produce a design to meet them                   |
+|              |                | - Record time in Time Recording Log                                           |
+|--------------+----------------+-------------------------------------------------------------------------------|
+|            2 | Code           | - Implement the design                                                        |
+|              |                | - Record in the Defect Recording Log any requirements or design defects found |
+|              |                | - Record time in Time Recording Log                                           |
+|--------------+----------------+-------------------------------------------------------------------------------|
+|            3 | Compile        | - Compile the program until error free                                        |
+|              |                | - Fix all defects found                                                       |
+|              |                | -  Record defects in Defect Recording Log                                     |
+|              |                | - Record time in Time Recording Log                                           |
+|--------------+----------------+-------------------------------------------------------------------------------|
+|            4 | Test           | - Test until all tests run without error                                      |
+|              |                | - Fix all defects found                                                       |
+|              |                | - Record defects in Defect Recording Log                                      |
+|              |                | - Record time in Time Recording Log                                           |
+|--------------+----------------+-------------------------------------------------------------------------------|
+
