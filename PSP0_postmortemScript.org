@@ -1,0 +1,25 @@
+#+TITLE: PSP0 Postmorem Script
+#+AUTHOR: Martin Homuth
+
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
+| Phase Number | Purpose          | Guide the PSP postmortem process                                                              |
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
+|              | Entry Criteria   | - Problem description and requirements statement                                              |
+|              |                  | - Project Plan Summary with planned development time                                          |
+|              |                  | - Completed Time Recording Log                                                                |
+|              |                  | - Completed Defect Recording Log                                                              |
+|              |                  | - A tested and running program                                                                |
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
+|            1 | Defects Injected | - Determine from the Defect Recording Log the number of defects injected in each PSP0 phase   |
+|              |                  | - Enter this number under Defects Injected--Actual on the Project Plan Summary                |
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
+|            2 | Defects Removed  | - Determine from the Defect Recording Log the number of defects removed in each PSP0 phase    |
+|              |                  | - Enter this number under Defects Removed--Actual on the Project Plan Summary                 |
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
+|            3 | Time             | - Review the completed Time Recording Log                                                     |
+|              |                  | - Enter the total time spent in each PSP0 phase under Actual on the Project Plan Summary form |
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
+|              | Exit Criteria    | - A fully tested program                                                                      |
+|              |                  | - Completed Projec Plan Summary form                                                          |
+|              |                  | - Completed Defect and Time Recording Logs                                                    |
+|--------------+------------------+-----------------------------------------------------------------------------------------------|
