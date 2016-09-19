@@ -2,7 +2,7 @@
 #+AUTHOR: Martin Homuth
 
 |--------------+-----------------+-----------------------------------------------------------------|
-| Phase Number | Purpose         | Guide                                                           |
+| Phase Number | Purpose         | Guide in developing module-level programs                       |
 |--------------+-----------------+-----------------------------------------------------------------|
 |              | Inputs Required | - Problem description                                           |
 |              |                 | - PSP0 Project Plan Summary Form                                |
