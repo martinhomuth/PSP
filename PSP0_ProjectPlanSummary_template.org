@@ -1,0 +1,40 @@
+#+TITLE: Project Plan Summary
+#+AUTHOR: Martin Homuth
+#+DATE: <2016-09-19 Mon>
+
+Project:
+Program:
+Language:
+
+|---------------------+------+--------+---------+-----------|
+| Time in Phase (min) | Plan | Actual | To Date | To Date % |
+|---------------------+------+--------+---------+-----------|
+| Planning            |      |        |         |           |
+| Design              |      |        |         |           |
+| Code                |      |        |         |           |
+| Compile             |      |        |         |           |
+| Test                |      |        |         |           |
+| Postmortem          |      |        |         |           |
+| ..Total             |      |        |         |           |
+|---------------------+------+--------+---------+-----------|
+| Defects Injected    |      | Actual | To Date | To Date % |
+|---------------------+------+--------+---------+-----------|
+| Planning            |      |        |         |           |
+| Design              |      |        |         |           |
+| Code                |      |        |         |           |
+| Compile             |      |        |         |           |
+| Test                |      |        |         |           |
+| ..Total Development |      |        |         |           |
+|---------------------+------+--------+---------+-----------|
+| Defects Removed     |      | Actual | To Date | To Date % |
+|---------------------+------+--------+---------+-----------|
+| Planning            |      |        |         |           |
+| Design              |      |        |         |           |
+| Code                |      |        |         |           |
+| Compile             |      |        |         |           |
+| Test                |      |        |         |           |
+| ..Total Development |      |        |         |           |
+| After Development   |      |        |         |           |
+|---------------------+------+--------+---------+-----------|
+
+
