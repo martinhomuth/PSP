@@ -1,0 +1,75 @@
+#+TITLE: Exercise 1A
+#+AUTHOR: Martin Homuth
+#+DATE: <2016-09-22 Thu>
+
+Write a program to estimate the mean and standard deviation of a
+sample of n real numbers. The mean is the average of the numbers. The
+formula for standard deviation is
+#+BEGIN_SRC latex
+  \rho (x_1,...,x_n) = \sqrt{\frac{\sum_{i=1}^n(x_i-x_{avg})^2}{n - 1}}
+#+END_SRC
+where \rho(x_1,...,x_n) is the standard deviation of the x values and
+x_{avg} is the average of these n values. The standard deviation
+calculation is described in Section A2.
+
+Use a linked list to hold the n numbers.
+
+Program 1A Testing: Thoroughly test the program. At least three of the
+tests should use the data in each of the three columns on the right of
+Table D5. The standard deviations for the columns in this table are
+Object LOC: 572.03; New and Changed LOC: 625.63; and Development
+Hours: 62.26. The standard deviation for the New and Changed LOC case
+is worked out in Section A2.1
+
+|----------------+------------+---------------------+-------------------|
+| Program Number | Object LOC | New and Changed LOC | Development Hours |
+|----------------+------------+---------------------+-------------------|
+|              1 |        160 |                 186 |              15.0 |
+|              2 |        591 |                 699 |              69.9 |
+|              3 |        114 |                 132 |               6.5 |
+|              4 |        229 |                 272 |              22.4 |
+|              5 |        230 |                 291 |              28.4 |
+|              6 |        270 |                 331 |              65.9 |
+|              7 |        128 |                 199 |              19.4 |
+|              8 |       1657 |                1890 |             198.7 |
+|              9 |        624 |                 788 |              38.8 |
+|             10 |       1503 |                1601 |             138.2 |
+|----------------+------------+---------------------+-------------------|
+
+* Planning
+  :PROPERTIES:
+  :Effort:   0:10
+  :END:
+  :LOGBOOK:
+  CLOCK: [2016-09-22 Thu 21:11]--[2016-09-22 Thu 21:16] =>  0:05
+  :END:
+
+  Modules:
+       - linked list
+	 - uses floats
+       - linked list tester
+	 - simple unit tests
+	 - boundaries
+	 - ordering
+       - standard deviation
+	 - see page 509 for steps (pretty accurate and clear)
+       - standard deviation tester
+	 - obvious and simple examples
+	 - invalid data
+       - main application
+	 - simple combination of modules
+       - application tests using table
+	 - more tests than the suggested three columns are not
+           necessary, right?
+
+* Development
+
+** Design
+   
+** Code
+
+** Compile
+
+** Test
+
+* Postmortem
