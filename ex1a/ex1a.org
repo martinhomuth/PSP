@@ -63,9 +63,26 @@ is worked out in Section A2.1
            necessary, right?
 
 * Development
-
 ** Design
-   
+   - Linked list:
+     The design is fairly straight forward. There is a linked list
+     module (as I am developing in C this means a structure). Not
+     needed in the linked list are several fancy adding/removing
+     operations. Most of the time I will iterate over the whole list.
+   - Standard deviation:
+     Depending on the design of the linked list this could be fairly
+     simple. For orthogonality I will avoid putting logic into the
+     linked list. This module has four functions:
+     1. mean of a linked list
+     2. number of items in a linked list
+     3. sum of the square of the distance of a linked list given mean
+        and list
+     4. calculate the variance by dividing through n - 1
+   - Main application:
+     Put everything together using stdin as source for the numbers.
+   - Tests:
+     Using module level tests using #define TEST main functions.
+
 ** Code
 
 ** Compile
