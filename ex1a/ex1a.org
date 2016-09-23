@@ -75,8 +75,7 @@ is worked out in Section A2.1
      linked list. This module has four functions:
      1. mean of a linked list
      2. number of items in a linked list
-     3. sum of the square of the distance of a linked list given mean
-        and list
+     3. sum of the square of the distance of a linked list
      4. calculate the variance by dividing through n - 1
    - Main application:
      Put everything together using stdin as source for the numbers.
@@ -84,6 +83,12 @@ is worked out in Section A2.1
      Using module level tests using #define TEST main functions.
 
 ** Code
+   :PROPERTIES:
+   :Effort:   1:00
+   :END:
+   :LOGBOOK:
+   CLOCK: [2016-09-23 Fri 06:22]--[2016-09-23 Fri 06:39] =>  0:17
+   :END:
 
 ** Compile
 
