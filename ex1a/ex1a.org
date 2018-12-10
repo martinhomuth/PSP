@@ -2,7 +2,9 @@
 #+AUTHOR: Martin Homuth
 #+DATE: <2018-12-10 Mon>
 
-* TODO Problem Description
+* DONE Problem Description
+  CLOSED: [2018-12-10 Mon 14:55]
+  - State "DONE"       from "TODO"       [2018-12-10 Mon 14:55]
   :LOGBOOK:
   - State "DONE"       from              [2016-12-18 Sun 20:59]
   :END:
@@ -40,16 +42,19 @@
   |             10 |       1503 |                1601 |             138.2 |
   |----------------+------------+---------------------+-------------------|
 
-* TODO Planning
+* DONE Planning
+  CLOSED: [2018-12-10 Mon 15:05]
   :PROPERTIES:
-  :Effort:   0:10
+  :Effort:   0:20
   :END:
+  - State "DONE"       from "TODO"       [2018-12-10 Mon 15:05]
   :LOGBOOK:
   - State "DONE"       from              [2016-12-18 Sun 20:59]
   CLOCK: [2016-09-22 Thu 21:11]--[2016-09-22 Thu 21:16] =>  0:05
   :END:
 
 ** Requirements
+
    Modules:
 	- linked list
 	  - uses floats
@@ -68,8 +73,9 @@
 	  - more tests than the suggested three columns are not
             necessary, right?
 
-
 ** Time
+   [[file:PSP0_ProjectPlanSummary.org][Project Plan Summary]]
+
 * TODO Development [0/4]
 ** TODO Design
    - Linked list:
