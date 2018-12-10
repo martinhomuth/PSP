@@ -1,21 +1,21 @@
 #+TITLE: Project Plan Summary
 #+AUTHOR: Martin Homuth
-#+DATE: <2016-09-20 Tue>
+#+DATE: <2018-12-10 Mon>
 
 Project: A Discipline for Software Engineering
 Program: 1A
-Language: C
+Language:
 
 |---------------------+------+--------+---------+-----------|
 | Time in Phase (min) | Plan | Actual | To Date | To Date % |
 |---------------------+------+--------+---------+-----------|
-| Planning            |   10 | 5      | 5       |           |
-| Design              |   30 | 15     | 15      |           |
-| Code                |   60 |        |         |           |
-| Compile             |   50 |        |         |           |
-| Test                |   40 |        |         |           |
-| Postmortem          |   20 |        |         |           |
-| ..Total             |  210 |        |         |           |
+| Planning            |      |        |         |           |
+| Design              |      |        |         |           |
+| Code                |      |        |         |           |
+| Compile             |      |        |         |           |
+| Test                |      |        |         |           |
+| Postmortem          |      |        |         |           |
+| ..Total             |      |        |         |           |
 |---------------------+------+--------+---------+-----------|
 | Defects Injected    |      | Actual | To Date | To Date % |
 |---------------------+------+--------+---------+-----------|

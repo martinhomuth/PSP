@@ -1,9 +1,8 @@
 #+TITLE: Exercise 1A
 #+AUTHOR: Martin Homuth
-#+DATE: <2016-09-22 Thu>
+#+DATE: <2018-12-10 Mon>
 
-* DONE Problem Description
-  CLOSED: [2016-12-18 Sun 20:59]
+* TODO Problem Description
   :LOGBOOK:
   - State "DONE"       from              [2016-12-18 Sun 20:59]
   :END:
@@ -41,8 +40,7 @@
   |             10 |       1503 |                1601 |             138.2 |
   |----------------+------------+---------------------+-------------------|
 
-* DONE Planning
-  CLOSED: [2016-12-18 Sun 20:59]
+* TODO Planning
   :PROPERTIES:
   :Effort:   0:10
   :END:
